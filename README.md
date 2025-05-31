@@ -80,3 +80,7 @@ HAVING COUNT(DISTINCT p.category_id) = (SELECT COUNT(*) FROM categories);
 Let’s discuss data, bikes, or SQL!
 📧 sagarburman49@gmail.com
 🔗 LinkedIn
+
+## 📜 License 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)  
+Copyright © 2025 [Sagarkumar49](https://github.com/Sagarkumar49)
